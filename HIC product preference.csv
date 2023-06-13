@@ -1,0 +1,12 @@
+continent;marital_status;alcohol;vegetables;meat;fish;chocolate;commodities
+Africa;Married;1776;129;1574;284;175;192
+Africa;Single;1926;149;1805;344;171;120
+Africa;Together;1111;24;790;160;45;172
+Europe;Divorced;982;17;672;23;34;51
+Europe;Married;5944;642;5261;861;705;360
+Europe;Single;12402;850;7489;1431;1224;716
+Europe;Together;3106;384;2663;417;396;278
+North America;Married;2670;282;1785;453;274;433
+North America;Single;3610;189;2822;162;219;137
+North America;Together;410;73;747;76;161;30
+Oceania;Married;992;24;694;51;19;119
